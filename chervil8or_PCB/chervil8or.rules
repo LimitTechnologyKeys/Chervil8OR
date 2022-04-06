@@ -11,18 +11,18 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 6560)
+    (start_pass_no 2913)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 2.8)
+      (against_preferred_direction_trace_costs 2.1)
     )
     (layer_rule B.Cu
       (active on)
       (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 1.6)
+      (against_preferred_direction_trace_costs 1.9)
     )
   )
   (rule
@@ -65,14 +65,12 @@
   (class "kicad_default"
     Row0 Col0 "Net-(D2-Pad2)" Row1 Row2 "Net-(D4-Pad2)" Row3 "Net-(D5-Pad2)"
     Col1 "Net-(D7-Pad2)" Col2 "Net-(D10-Pad2)" "Net-(D12-Pad2)" "Net-(D13-Pad2)" Col3 "Net-(D15-Pad2)"
-    Row0r Col0r "Net-(D18-Pad2)" Row1r Row2r "Net-(D20-Pad2)" Row3r "Net-(D21-Pad2)"
-    Col1r "Net-(D23-Pad2)" Col2r "Net-(D26-Pad2)" "Net-(D28-Pad2)" "Net-(D29-Pad2)" Col3r "Net-(D31-Pad2)"
-    GND deta "Net-(J1-PadA)" VCC "Net-(J2-PadA)" GNDr detar "Net-(J3-PadA)"
-    VCCr "Net-(J4-PadA)" LED "Net-(LED1-Pad1)" "Net-(LED2-Pad1)" "Net-(LED3-Pad1)" "Net-(LED4-Pad1)" "Net-(LED5-Pad1)"
-    "Net-(LED6-Pad1)" "Net-(LED7-Pad1)" "Net-(LED8-Pad1)" LEDr "Net-(LED10-Pad3)" "Net-(LED10-Pad1)" "Net-(LED11-Pad1)" "Net-(LED12-Pad1)"
-    "Net-(LED13-Pad1)" "Net-(LED14-Pad1)" "Net-(LED15-Pad1)" "Net-(LED16-Pad1)" SCL SDA SCLr SDAr
-    Col6 Col8 Col7 Col6r Col8r Col7r "Net-(U1-Pad24)" "Net-(U1-Pad22)"
-    "Net-(U1-Pad18)" "Net-(U1-Pad17)" "Net-(U1-Pad7)" "Net-(U2-Pad24)" "Net-(U2-Pad22)" "Net-(U2-Pad18)" "Net-(U2-Pad17)" "Net-(U2-Pad7)"
+    Row0r Col0r Row1r Row2r Row3r Col1r Col2r Col3r
+    GND deta VCC GNDr detar VCCr LED "Net-(LED1-Pad1)"
+    "Net-(LED2-Pad1)" "Net-(LED3-Pad1)" "Net-(LED4-Pad1)" "Net-(LED5-Pad1)" "Net-(LED6-Pad1)" "Net-(LED7-Pad1)" LEDr "Net-(LED10-Pad3)"
+    "Net-(LED10-Pad1)" "Net-(LED11-Pad1)" "Net-(LED12-Pad1)" "Net-(LED13-Pad1)" "Net-(LED14-Pad1)" "Net-(LED15-Pad1)" SCL SDA
+    SCLr SDAr Col6 Col8 Col7 Col6r Col8r Col7r
+    "Net-(D1-Pad2)" "Net-(D3-Pad2)" "Net-(D6-Pad2)" "Net-(D8-Pad2)" "Net-(D9-Pad2)" "Net-(D11-Pad2)" "Net-(D14-Pad2)" "Net-(D16-Pad2)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule

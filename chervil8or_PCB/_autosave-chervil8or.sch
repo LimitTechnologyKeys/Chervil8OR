@@ -82,10 +82,10 @@ Wire Wire Line
 Connection ~ 3000 5425
 Connection ~ 3000 3925
 $Comp
-L Device:D D5
+L Device:D D3
 U 1 1 5BF17145
 P 3000 3775
-F 0 "D5" V 3046 3696 50  0000 R CNN
+F 0 "D3" V 3046 3696 50  0000 R CNN
 F 1 "D" V 2955 3696 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 3000 3775 50  0001 C CNN
 F 3 "~" H 3000 3775 50  0001 C CNN
@@ -93,10 +93,10 @@ F 3 "~" H 3000 3775 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D13
+L Device:D D7
 U 1 1 5C3E32AB
 P 4300 3775
-F 0 "D13" V 4346 3696 50  0000 R CNN
+F 0 "D7" V 4346 3696 50  0000 R CNN
 F 1 "D" V 4255 3696 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 4300 3775 50  0001 C CNN
 F 3 "~" H 4300 3775 50  0001 C CNN
@@ -104,10 +104,10 @@ F 3 "~" H 4300 3775 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D10
+L Device:D D5
 U 1 1 5C3E564F
 P 3650 4525
-F 0 "D10" V 3696 4446 50  0000 R CNN
+F 0 "D5" V 3696 4446 50  0000 R CNN
 F 1 "D" V 3605 4446 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 3650 4525 50  0001 C CNN
 F 3 "~" H 3650 4525 50  0001 C CNN
@@ -115,10 +115,10 @@ F 3 "~" H 3650 4525 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D7
+L Device:D D4
 U 1 1 5C3E5BD1
 P 3000 5275
-F 0 "D7" V 3046 5196 50  0000 R CNN
+F 0 "D4" V 3046 5196 50  0000 R CNN
 F 1 "D" V 2955 5196 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 3000 5275 50  0001 C CNN
 F 3 "~" H 3000 5275 50  0001 C CNN
@@ -170,10 +170,10 @@ F 3 "" H 3450 4375 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D12
+L Device:D D6
 U 1 1 606D2B7F
 P 3650 5975
-F 0 "D12" V 3696 5896 50  0000 R CNN
+F 0 "D6" V 3696 5896 50  0000 R CNN
 F 1 "D" V 3605 5896 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 3650 5975 50  0001 C CNN
 F 3 "~" H 3650 5975 50  0001 C CNN
@@ -214,10 +214,10 @@ F 3 "" H 2150 5825 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D4
+L Device:D D2
 U 1 1 5C3E5DB3
 P 2350 5975
-F 0 "D4" V 2396 5896 50  0000 R CNN
+F 0 "D2" V 2396 5896 50  0000 R CNN
 F 1 "D" V 2305 5896 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 2350 5975 50  0001 C CNN
 F 3 "~" H 2350 5975 50  0001 C CNN
@@ -225,10 +225,10 @@ F 3 "~" H 2350 5975 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D2
+L Device:D D1
 U 1 1 5BF1727D
 P 2350 4525
-F 0 "D2" V 2396 4446 50  0000 R CNN
+F 0 "D1" V 2396 4446 50  0000 R CNN
 F 1 "D" V 2305 4446 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 2350 4525 50  0001 C CNN
 F 3 "~" H 2350 4525 50  0001 C CNN
@@ -542,10 +542,10 @@ NoConn ~ 2475 8875
 NoConn ~ 2825 1825
 NoConn ~ 2825 1925
 $Comp
-L Device:D D15
+L Device:D D8
 U 1 1 62489054
 P 4300 5275
-F 0 "D15" V 4346 5196 50  0000 R CNN
+F 0 "D8" V 4346 5196 50  0000 R CNN
 F 1 "D" V 4255 5196 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 4300 5275 50  0001 C CNN
 F 3 "~" H 4300 5275 50  0001 C CNN
@@ -628,10 +628,10 @@ Wire Wire Line
 Connection ~ 10700 5525
 Connection ~ 10700 4025
 $Comp
-L Device:D D21
+L Device:D D11
 U 1 1 624C6DCD
 P 10700 3875
-F 0 "D21" V 10746 3796 50  0000 R CNN
+F 0 "D11" V 10746 3796 50  0000 R CNN
 F 1 "D" V 10655 3796 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 10700 3875 50  0001 C CNN
 F 3 "~" H 10700 3875 50  0001 C CNN
@@ -639,10 +639,10 @@ F 3 "~" H 10700 3875 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D29
+L Device:D D15
 U 1 1 624C6DDF
 P 12000 3875
-F 0 "D29" V 12046 3796 50  0000 R CNN
+F 0 "D15" V 12046 3796 50  0000 R CNN
 F 1 "D" V 11955 3796 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 12000 3875 50  0001 C CNN
 F 3 "~" H 12000 3875 50  0001 C CNN
@@ -650,10 +650,10 @@ F 3 "~" H 12000 3875 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D26
+L Device:D D13
 U 1 1 624C6DE5
 P 11350 4625
-F 0 "D26" V 11396 4546 50  0000 R CNN
+F 0 "D13" V 11396 4546 50  0000 R CNN
 F 1 "D" V 11305 4546 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 11350 4625 50  0001 C CNN
 F 3 "~" H 11350 4625 50  0001 C CNN
@@ -661,10 +661,10 @@ F 3 "~" H 11350 4625 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D23
+L Device:D D12
 U 1 1 624C6DF7
 P 10700 5375
-F 0 "D23" V 10746 5296 50  0000 R CNN
+F 0 "D12" V 10746 5296 50  0000 R CNN
 F 1 "D" V 10655 5296 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 10700 5375 50  0001 C CNN
 F 3 "~" H 10700 5375 50  0001 C CNN
@@ -716,10 +716,10 @@ F 3 "" H 11150 4475 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D28
+L Device:D D14
 U 1 1 624C6E15
 P 11350 6075
-F 0 "D28" V 11396 5996 50  0000 R CNN
+F 0 "D14" V 11396 5996 50  0000 R CNN
 F 1 "D" V 11305 5996 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 11350 6075 50  0001 C CNN
 F 3 "~" H 11350 6075 50  0001 C CNN
@@ -760,10 +760,10 @@ F 3 "" H 9850 5925 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D D20
+L Device:D D10
 U 1 1 624C6E2D
 P 10050 6075
-F 0 "D20" V 10096 5996 50  0000 R CNN
+F 0 "D10" V 10096 5996 50  0000 R CNN
 F 1 "D" V 10005 5996 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 10050 6075 50  0001 C CNN
 F 3 "~" H 10050 6075 50  0001 C CNN
@@ -771,10 +771,10 @@ F 3 "~" H 10050 6075 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D D18
+L Device:D D9
 U 1 1 624C6E39
 P 10050 4625
-F 0 "D18" V 10096 4546 50  0000 R CNN
+F 0 "D9" V 10096 4546 50  0000 R CNN
 F 1 "D" V 10005 4546 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 10050 4625 50  0001 C CNN
 F 3 "~" H 10050 4625 50  0001 C CNN
@@ -929,10 +929,10 @@ NoConn ~ 10175 8975
 NoConn ~ 10525 1925
 NoConn ~ 10525 2025
 $Comp
-L Device:D D31
+L Device:D D16
 U 1 1 624C6F23
 P 12000 5375
-F 0 "D31" V 12046 5296 50  0000 R CNN
+F 0 "D16" V 12046 5296 50  0000 R CNN
 F 1 "D" V 11955 5296 50  0000 R CNN
 F 2 "kbd_Parts:Diode_TH_SMD" H 12000 5375 50  0001 C CNN
 F 3 "~" H 12000 5375 50  0001 C CNN
@@ -1208,4 +1208,356 @@ Wire Wire Line
 	9300 4025 10700 4025
 Wire Wire Line
 	9650 3225 9650 4475
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 625C30CC
+P 13625 600
+F 0 "H1" H 13725 646 50  0000 L CNN
+F 1 "MountingHole" H 13725 555 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 600 50  0001 C CNN
+F 3 "~" H 13625 600 50  0001 C CNN
+	1    13625 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 625C30D2
+P 13800 600
+F 0 "H9" H 13900 646 50  0000 L CNN
+F 1 "MountingHole" H 13900 555 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 600 50  0001 C CNN
+F 3 "~" H 13800 600 50  0001 C CNN
+	1    13800 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 625C30D8
+P 13625 750
+F 0 "H2" H 13725 796 50  0000 L CNN
+F 1 "MountingHole" H 13725 705 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 750 50  0001 C CNN
+F 3 "~" H 13625 750 50  0001 C CNN
+	1    13625 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 625C30DE
+P 13800 750
+F 0 "H10" H 13900 796 50  0000 L CNN
+F 1 "MountingHole" H 13900 705 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 750 50  0001 C CNN
+F 3 "~" H 13800 750 50  0001 C CNN
+	1    13800 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 625C30E4
+P 13625 900
+F 0 "H3" H 13725 946 50  0000 L CNN
+F 1 "MountingHole" H 13725 855 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 900 50  0001 C CNN
+F 3 "~" H 13625 900 50  0001 C CNN
+	1    13625 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 625C30EA
+P 13800 900
+F 0 "H11" H 13900 946 50  0000 L CNN
+F 1 "MountingHole" H 13900 855 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 900 50  0001 C CNN
+F 3 "~" H 13800 900 50  0001 C CNN
+	1    13800 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 625C30F0
+P 13625 1050
+F 0 "H4" H 13725 1096 50  0000 L CNN
+F 1 "MountingHole" H 13725 1005 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 1050 50  0001 C CNN
+F 3 "~" H 13625 1050 50  0001 C CNN
+	1    13625 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 625C30F6
+P 13800 1050
+F 0 "H12" H 13900 1096 50  0000 L CNN
+F 1 "MountingHole" H 13900 1005 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 1050 50  0001 C CNN
+F 3 "~" H 13800 1050 50  0001 C CNN
+	1    13800 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 625C30FC
+P 13625 1200
+F 0 "H5" H 13725 1246 50  0000 L CNN
+F 1 "MountingHole" H 13725 1155 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 1200 50  0001 C CNN
+F 3 "~" H 13625 1200 50  0001 C CNN
+	1    13625 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 625C3102
+P 13800 1200
+F 0 "H13" H 13900 1246 50  0000 L CNN
+F 1 "MountingHole" H 13900 1155 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 1200 50  0001 C CNN
+F 3 "~" H 13800 1200 50  0001 C CNN
+	1    13800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 625C3108
+P 13625 1350
+F 0 "H6" H 13725 1396 50  0000 L CNN
+F 1 "MountingHole" H 13725 1305 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 1350 50  0001 C CNN
+F 3 "~" H 13625 1350 50  0001 C CNN
+	1    13625 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 625C310E
+P 13800 1350
+F 0 "H14" H 13900 1396 50  0000 L CNN
+F 1 "MountingHole" H 13900 1305 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 1350 50  0001 C CNN
+F 3 "~" H 13800 1350 50  0001 C CNN
+	1    13800 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 625C3114
+P 13625 1500
+F 0 "H7" H 13725 1546 50  0000 L CNN
+F 1 "MountingHole" H 13725 1455 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 1500 50  0001 C CNN
+F 3 "~" H 13625 1500 50  0001 C CNN
+	1    13625 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 625C311A
+P 13800 1500
+F 0 "H15" H 13900 1546 50  0000 L CNN
+F 1 "MountingHole" H 13900 1455 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 1500 50  0001 C CNN
+F 3 "~" H 13800 1500 50  0001 C CNN
+	1    13800 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 625C3120
+P 13625 1650
+F 0 "H8" H 13725 1696 50  0000 L CNN
+F 1 "MountingHole" H 13725 1605 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13625 1650 50  0001 C CNN
+F 3 "~" H 13625 1650 50  0001 C CNN
+	1    13625 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 625C3126
+P 13800 1650
+F 0 "H16" H 13900 1696 50  0000 L CNN
+F 1 "MountingHole" H 13900 1605 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13800 1650 50  0001 C CNN
+F 3 "~" H 13800 1650 50  0001 C CNN
+	1    13800 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H17
+U 1 1 625CDC18
+P 13975 600
+F 0 "H17" H 14075 646 50  0000 L CNN
+F 1 "MountingHole" H 14075 555 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 600 50  0001 C CNN
+F 3 "~" H 13975 600 50  0001 C CNN
+	1    13975 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H25
+U 1 1 625CDC1E
+P 14150 600
+F 0 "H25" H 14250 646 50  0000 L CNN
+F 1 "MountingHole" H 14250 555 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 600 50  0001 C CNN
+F 3 "~" H 14150 600 50  0001 C CNN
+	1    14150 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H18
+U 1 1 625CDC24
+P 13975 750
+F 0 "H18" H 14075 796 50  0000 L CNN
+F 1 "MountingHole" H 14075 705 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 750 50  0001 C CNN
+F 3 "~" H 13975 750 50  0001 C CNN
+	1    13975 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H26
+U 1 1 625CDC2A
+P 14150 750
+F 0 "H26" H 14250 796 50  0000 L CNN
+F 1 "MountingHole" H 14250 705 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 750 50  0001 C CNN
+F 3 "~" H 14150 750 50  0001 C CNN
+	1    14150 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H19
+U 1 1 625CDC30
+P 13975 900
+F 0 "H19" H 14075 946 50  0000 L CNN
+F 1 "MountingHole" H 14075 855 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 900 50  0001 C CNN
+F 3 "~" H 13975 900 50  0001 C CNN
+	1    13975 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H27
+U 1 1 625CDC36
+P 14150 900
+F 0 "H27" H 14250 946 50  0000 L CNN
+F 1 "MountingHole" H 14250 855 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 900 50  0001 C CNN
+F 3 "~" H 14150 900 50  0001 C CNN
+	1    14150 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 625CDC3C
+P 13975 1050
+F 0 "H20" H 14075 1096 50  0000 L CNN
+F 1 "MountingHole" H 14075 1005 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 1050 50  0001 C CNN
+F 3 "~" H 13975 1050 50  0001 C CNN
+	1    13975 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H28
+U 1 1 625CDC42
+P 14150 1050
+F 0 "H28" H 14250 1096 50  0000 L CNN
+F 1 "MountingHole" H 14250 1005 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 1050 50  0001 C CNN
+F 3 "~" H 14150 1050 50  0001 C CNN
+	1    14150 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H21
+U 1 1 625CDC48
+P 13975 1200
+F 0 "H21" H 14075 1246 50  0000 L CNN
+F 1 "MountingHole" H 14075 1155 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 1200 50  0001 C CNN
+F 3 "~" H 13975 1200 50  0001 C CNN
+	1    13975 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H29
+U 1 1 625CDC4E
+P 14150 1200
+F 0 "H29" H 14250 1246 50  0000 L CNN
+F 1 "MountingHole" H 14250 1155 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 1200 50  0001 C CNN
+F 3 "~" H 14150 1200 50  0001 C CNN
+	1    14150 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H22
+U 1 1 625CDC54
+P 13975 1350
+F 0 "H22" H 14075 1396 50  0000 L CNN
+F 1 "MountingHole" H 14075 1305 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 1350 50  0001 C CNN
+F 3 "~" H 13975 1350 50  0001 C CNN
+	1    13975 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H30
+U 1 1 625CDC5A
+P 14150 1350
+F 0 "H30" H 14250 1396 50  0000 L CNN
+F 1 "MountingHole" H 14250 1305 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 1350 50  0001 C CNN
+F 3 "~" H 14150 1350 50  0001 C CNN
+	1    14150 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H23
+U 1 1 625CDC60
+P 13975 1500
+F 0 "H23" H 14075 1546 50  0000 L CNN
+F 1 "MountingHole" H 14075 1455 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 1500 50  0001 C CNN
+F 3 "~" H 13975 1500 50  0001 C CNN
+	1    13975 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H31
+U 1 1 625CDC66
+P 14150 1500
+F 0 "H31" H 14250 1546 50  0000 L CNN
+F 1 "MountingHole" H 14250 1455 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 1500 50  0001 C CNN
+F 3 "~" H 14150 1500 50  0001 C CNN
+	1    14150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H24
+U 1 1 625CDC6C
+P 13975 1650
+F 0 "H24" H 14075 1696 50  0000 L CNN
+F 1 "MountingHole" H 14075 1605 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 13975 1650 50  0001 C CNN
+F 3 "~" H 13975 1650 50  0001 C CNN
+	1    13975 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H32
+U 1 1 625CDC72
+P 14150 1650
+F 0 "H32" H 14250 1696 50  0000 L CNN
+F 1 "MountingHole" H 14250 1605 50  0000 L CNN
+F 2 "kbd_Hole:m2_Screw_Hole" H 14150 1650 50  0001 C CNN
+F 3 "~" H 14150 1650 50  0001 C CNN
+	1    14150 1650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
